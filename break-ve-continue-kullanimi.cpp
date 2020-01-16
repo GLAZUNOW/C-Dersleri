@@ -40,7 +40,7 @@ using namespace std;
 	string username;
 	string password;
 	
-	while (true)
+	for (int i=1;i<3;i++)
 	{
 		cout<<"Kullanýcý Adý:";
 		cin>>username;
